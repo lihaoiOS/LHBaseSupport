@@ -1,0 +1,22 @@
+{
+  "name": "LHBaseSupport",
+  "version": "1.0.0",
+  "summary": "A short description of LHBaseSupport.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lihaoiOS/LHBaseSupport",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lihao": "857428780@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lihaoiOS/LHBaseSupport.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LHBaseSupport/Classes/**/*"
+}

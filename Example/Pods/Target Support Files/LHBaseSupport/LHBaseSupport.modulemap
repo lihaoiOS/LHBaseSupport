@@ -1,0 +1,6 @@
+framework module LHBaseSupport {
+  umbrella header "LHBaseSupport-umbrella.h"
+
+  export *
+  module * { export * }
+}

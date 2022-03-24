@@ -1,0 +1,16 @@
+PODS:
+  - LHBaseSupport (1.0.0)
+
+DEPENDENCIES:
+  - LHBaseSupport (from `../`)
+
+EXTERNAL SOURCES:
+  LHBaseSupport:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHBaseSupport: 10a4f54a83e2d08237e3b28ce12f45a8ec412701
+
+PODFILE CHECKSUM: 277d39d3de60f122def2b4be0f9712be97e88ce7
+
+COCOAPODS: 1.10.0

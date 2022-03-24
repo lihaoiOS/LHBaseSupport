@@ -1,0 +1,6 @@
+framework module Pods_LHBaseSupport_Tests {
+  umbrella header "Pods-LHBaseSupport_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
